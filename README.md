@@ -1,1 +1,1 @@
-LOGIN
+Se muestra un login básico
