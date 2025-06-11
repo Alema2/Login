@@ -9,6 +9,7 @@ Este es un proyecto simple de una página de **login** desarrollado usando únic
 - Uso exclusivo de HTML y CSS (sin JavaScript)
 
 ## 📁 Estructura del Proyecto
+```plaintext
 /login-html-css
 ├── index.html
 ├── style.css
