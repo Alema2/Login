@@ -13,6 +13,8 @@ Este es un proyecto simple de una página de **login** desarrollado usando únic
 /login-html-css
 ├── index.html
 ├── style.css
+└── img/
+    └── fondo.jpg
 └── README.md
 ```
 ## 📸 Captura de Pantalla
