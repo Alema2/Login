@@ -20,5 +20,3 @@ Este es un proyecto simple de una página de **login** desarrollado usando únic
 ## 📸 Captura de Pantalla
 
 ![Login Screenshot](ruta/a/tu/imagen.png) <!-- Puedes subir una imagen del formulario y enlazarla aquí -->
-
-## 📁 Estructura del Proyecto
